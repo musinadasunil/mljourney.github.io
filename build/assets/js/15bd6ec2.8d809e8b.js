@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmljourney_github_io=self.webpackChunkmljourney_github_io||[]).push([[3207],{4740:e=>{e.exports=JSON.parse('{"metadata":{"permalink":"/mljourney.github.io/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);

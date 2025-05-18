@@ -3,155 +3,155 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
-    path: '/blog',
-    component: ComponentCreator('/blog', 'b2f'),
+    path: '/mljourney.github.io/blog',
+    component: ComponentCreator('/mljourney.github.io/blog', 'a4f'),
     exact: true
   },
   {
-    path: '/blog/archive',
-    component: ComponentCreator('/blog/archive', '182'),
+    path: '/mljourney.github.io/blog/archive',
+    component: ComponentCreator('/mljourney.github.io/blog/archive', 'ea9'),
     exact: true
   },
   {
-    path: '/blog/authors',
-    component: ComponentCreator('/blog/authors', '0b7'),
+    path: '/mljourney.github.io/blog/authors',
+    component: ComponentCreator('/mljourney.github.io/blog/authors', '6ff'),
     exact: true
   },
   {
-    path: '/blog/authors/all-sebastien-lorber-articles',
-    component: ComponentCreator('/blog/authors/all-sebastien-lorber-articles', '4a1'),
+    path: '/mljourney.github.io/blog/authors/all-sebastien-lorber-articles',
+    component: ComponentCreator('/mljourney.github.io/blog/authors/all-sebastien-lorber-articles', '7d5'),
     exact: true
   },
   {
-    path: '/blog/authors/yangshun',
-    component: ComponentCreator('/blog/authors/yangshun', 'a68'),
+    path: '/mljourney.github.io/blog/authors/yangshun',
+    component: ComponentCreator('/mljourney.github.io/blog/authors/yangshun', '912'),
     exact: true
   },
   {
-    path: '/blog/first-blog-post',
-    component: ComponentCreator('/blog/first-blog-post', '89a'),
+    path: '/mljourney.github.io/blog/first-blog-post',
+    component: ComponentCreator('/mljourney.github.io/blog/first-blog-post', 'c71'),
     exact: true
   },
   {
-    path: '/blog/long-blog-post',
-    component: ComponentCreator('/blog/long-blog-post', '9ad'),
+    path: '/mljourney.github.io/blog/long-blog-post',
+    component: ComponentCreator('/mljourney.github.io/blog/long-blog-post', '7db'),
     exact: true
   },
   {
-    path: '/blog/mdx-blog-post',
-    component: ComponentCreator('/blog/mdx-blog-post', 'e9f'),
+    path: '/mljourney.github.io/blog/mdx-blog-post',
+    component: ComponentCreator('/mljourney.github.io/blog/mdx-blog-post', '786'),
     exact: true
   },
   {
-    path: '/blog/tags',
-    component: ComponentCreator('/blog/tags', '287'),
+    path: '/mljourney.github.io/blog/tags',
+    component: ComponentCreator('/mljourney.github.io/blog/tags', '38c'),
     exact: true
   },
   {
-    path: '/blog/tags/docusaurus',
-    component: ComponentCreator('/blog/tags/docusaurus', '704'),
+    path: '/mljourney.github.io/blog/tags/docusaurus',
+    component: ComponentCreator('/mljourney.github.io/blog/tags/docusaurus', 'ea9'),
     exact: true
   },
   {
-    path: '/blog/tags/facebook',
-    component: ComponentCreator('/blog/tags/facebook', '858'),
+    path: '/mljourney.github.io/blog/tags/facebook',
+    component: ComponentCreator('/mljourney.github.io/blog/tags/facebook', '84a'),
     exact: true
   },
   {
-    path: '/blog/tags/hello',
-    component: ComponentCreator('/blog/tags/hello', '299'),
+    path: '/mljourney.github.io/blog/tags/hello',
+    component: ComponentCreator('/mljourney.github.io/blog/tags/hello', 'e9a'),
     exact: true
   },
   {
-    path: '/blog/tags/hola',
-    component: ComponentCreator('/blog/tags/hola', '00d'),
+    path: '/mljourney.github.io/blog/tags/hola',
+    component: ComponentCreator('/mljourney.github.io/blog/tags/hola', 'cec'),
     exact: true
   },
   {
-    path: '/blog/welcome',
-    component: ComponentCreator('/blog/welcome', 'd2b'),
+    path: '/mljourney.github.io/blog/welcome',
+    component: ComponentCreator('/mljourney.github.io/blog/welcome', '1f2'),
     exact: true
   },
   {
-    path: '/markdown-page',
-    component: ComponentCreator('/markdown-page', '3d7'),
+    path: '/mljourney.github.io/markdown-page',
+    component: ComponentCreator('/mljourney.github.io/markdown-page', 'e16'),
     exact: true
   },
   {
-    path: '/docs',
-    component: ComponentCreator('/docs', '733'),
+    path: '/mljourney.github.io/docs',
+    component: ComponentCreator('/mljourney.github.io/docs', 'ac5'),
     routes: [
       {
-        path: '/docs',
-        component: ComponentCreator('/docs', '7e6'),
+        path: '/mljourney.github.io/docs',
+        component: ComponentCreator('/mljourney.github.io/docs', '51c'),
         routes: [
           {
-            path: '/docs',
-            component: ComponentCreator('/docs', 'ba6'),
+            path: '/mljourney.github.io/docs',
+            component: ComponentCreator('/mljourney.github.io/docs', '61a'),
             routes: [
               {
-                path: '/docs/category/tutorial---basics',
-                component: ComponentCreator('/docs/category/tutorial---basics', '20e'),
+                path: '/mljourney.github.io/docs/category/tutorial---basics',
+                component: ComponentCreator('/mljourney.github.io/docs/category/tutorial---basics', 'ea3'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/category/tutorial---extras',
-                component: ComponentCreator('/docs/category/tutorial---extras', '9ad'),
+                path: '/mljourney.github.io/docs/category/tutorial---extras',
+                component: ComponentCreator('/mljourney.github.io/docs/category/tutorial---extras', 'ec5'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/intro',
-                component: ComponentCreator('/docs/intro', '61d'),
+                path: '/mljourney.github.io/docs/intro',
+                component: ComponentCreator('/mljourney.github.io/docs/intro', '251'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/tutorial-basics/congratulations',
-                component: ComponentCreator('/docs/tutorial-basics/congratulations', '458'),
+                path: '/mljourney.github.io/docs/tutorial-basics/congratulations',
+                component: ComponentCreator('/mljourney.github.io/docs/tutorial-basics/congratulations', '240'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/tutorial-basics/create-a-blog-post',
-                component: ComponentCreator('/docs/tutorial-basics/create-a-blog-post', '108'),
+                path: '/mljourney.github.io/docs/tutorial-basics/create-a-blog-post',
+                component: ComponentCreator('/mljourney.github.io/docs/tutorial-basics/create-a-blog-post', '2f9'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/tutorial-basics/create-a-document',
-                component: ComponentCreator('/docs/tutorial-basics/create-a-document', '8fc'),
+                path: '/mljourney.github.io/docs/tutorial-basics/create-a-document',
+                component: ComponentCreator('/mljourney.github.io/docs/tutorial-basics/create-a-document', 'd78'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/tutorial-basics/create-a-page',
-                component: ComponentCreator('/docs/tutorial-basics/create-a-page', '951'),
+                path: '/mljourney.github.io/docs/tutorial-basics/create-a-page',
+                component: ComponentCreator('/mljourney.github.io/docs/tutorial-basics/create-a-page', 'ac4'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/tutorial-basics/deploy-your-site',
-                component: ComponentCreator('/docs/tutorial-basics/deploy-your-site', '4f5'),
+                path: '/mljourney.github.io/docs/tutorial-basics/deploy-your-site',
+                component: ComponentCreator('/mljourney.github.io/docs/tutorial-basics/deploy-your-site', '963'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/tutorial-basics/markdown-features',
-                component: ComponentCreator('/docs/tutorial-basics/markdown-features', 'b05'),
+                path: '/mljourney.github.io/docs/tutorial-basics/markdown-features',
+                component: ComponentCreator('/mljourney.github.io/docs/tutorial-basics/markdown-features', 'fb6'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/tutorial-extras/manage-docs-versions',
-                component: ComponentCreator('/docs/tutorial-extras/manage-docs-versions', '978'),
+                path: '/mljourney.github.io/docs/tutorial-extras/manage-docs-versions',
+                component: ComponentCreator('/mljourney.github.io/docs/tutorial-extras/manage-docs-versions', '0aa'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/tutorial-extras/translate-your-site',
-                component: ComponentCreator('/docs/tutorial-extras/translate-your-site', 'f9a'),
+                path: '/mljourney.github.io/docs/tutorial-extras/translate-your-site',
+                component: ComponentCreator('/mljourney.github.io/docs/tutorial-extras/translate-your-site', 'e26'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               }
@@ -162,8 +162,8 @@ export default [
     ]
   },
   {
-    path: '/',
-    component: ComponentCreator('/', 'e5f'),
+    path: '/mljourney.github.io/',
+    component: ComponentCreator('/mljourney.github.io/', '1d2'),
     exact: true
   },
   {

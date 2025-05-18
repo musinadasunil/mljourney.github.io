@@ -9,7 +9,7 @@ export default {
   "favicon": "img/favicon.ico",
   "deploymentBranch": "main",
   "url": "https://musinadasunil.github.io",
-  "baseUrl": "/",
+  "baseUrl": "/mljourney.github.io/",
   "organizationName": "sunilmusinada",
   "projectName": "mljourney.github.io",
   "onBrokenLinks": "throw",
