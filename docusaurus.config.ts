@@ -13,11 +13,11 @@ const config: Config = {
   url: 'https://musinadasunil.github.io/',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/mljourney.github.io/',
+  baseUrl: '/mljourney/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'sunilmusinada', // Usually your GitHub org/user name.
+  organizationName: 'musinadasunil', // Usually your GitHub org/user name.
   projectName: 'mljourney.github.io', // Usually your repo name.
 
   onBrokenLinks: 'throw',

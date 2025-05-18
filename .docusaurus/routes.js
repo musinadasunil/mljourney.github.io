@@ -3,155 +3,155 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
-    path: '/blog',
-    component: ComponentCreator('/blog', 'b2f'),
+    path: '/mljourney/blog',
+    component: ComponentCreator('/mljourney/blog', '30d'),
     exact: true
   },
   {
-    path: '/blog/archive',
-    component: ComponentCreator('/blog/archive', '182'),
+    path: '/mljourney/blog/archive',
+    component: ComponentCreator('/mljourney/blog/archive', '487'),
     exact: true
   },
   {
-    path: '/blog/authors',
-    component: ComponentCreator('/blog/authors', '0b7'),
+    path: '/mljourney/blog/authors',
+    component: ComponentCreator('/mljourney/blog/authors', '005'),
     exact: true
   },
   {
-    path: '/blog/authors/all-sebastien-lorber-articles',
-    component: ComponentCreator('/blog/authors/all-sebastien-lorber-articles', '4a1'),
+    path: '/mljourney/blog/authors/all-sebastien-lorber-articles',
+    component: ComponentCreator('/mljourney/blog/authors/all-sebastien-lorber-articles', '6ba'),
     exact: true
   },
   {
-    path: '/blog/authors/yangshun',
-    component: ComponentCreator('/blog/authors/yangshun', 'a68'),
+    path: '/mljourney/blog/authors/yangshun',
+    component: ComponentCreator('/mljourney/blog/authors/yangshun', '5e9'),
     exact: true
   },
   {
-    path: '/blog/first-blog-post',
-    component: ComponentCreator('/blog/first-blog-post', '89a'),
+    path: '/mljourney/blog/first-blog-post',
+    component: ComponentCreator('/mljourney/blog/first-blog-post', '380'),
     exact: true
   },
   {
-    path: '/blog/long-blog-post',
-    component: ComponentCreator('/blog/long-blog-post', '9ad'),
+    path: '/mljourney/blog/long-blog-post',
+    component: ComponentCreator('/mljourney/blog/long-blog-post', '39a'),
     exact: true
   },
   {
-    path: '/blog/mdx-blog-post',
-    component: ComponentCreator('/blog/mdx-blog-post', 'e9f'),
+    path: '/mljourney/blog/mdx-blog-post',
+    component: ComponentCreator('/mljourney/blog/mdx-blog-post', '682'),
     exact: true
   },
   {
-    path: '/blog/tags',
-    component: ComponentCreator('/blog/tags', '287'),
+    path: '/mljourney/blog/tags',
+    component: ComponentCreator('/mljourney/blog/tags', '001'),
     exact: true
   },
   {
-    path: '/blog/tags/docusaurus',
-    component: ComponentCreator('/blog/tags/docusaurus', '704'),
+    path: '/mljourney/blog/tags/docusaurus',
+    component: ComponentCreator('/mljourney/blog/tags/docusaurus', '7ba'),
     exact: true
   },
   {
-    path: '/blog/tags/facebook',
-    component: ComponentCreator('/blog/tags/facebook', '858'),
+    path: '/mljourney/blog/tags/facebook',
+    component: ComponentCreator('/mljourney/blog/tags/facebook', '5c8'),
     exact: true
   },
   {
-    path: '/blog/tags/hello',
-    component: ComponentCreator('/blog/tags/hello', '299'),
+    path: '/mljourney/blog/tags/hello',
+    component: ComponentCreator('/mljourney/blog/tags/hello', '45b'),
     exact: true
   },
   {
-    path: '/blog/tags/hola',
-    component: ComponentCreator('/blog/tags/hola', '00d'),
+    path: '/mljourney/blog/tags/hola',
+    component: ComponentCreator('/mljourney/blog/tags/hola', '474'),
     exact: true
   },
   {
-    path: '/blog/welcome',
-    component: ComponentCreator('/blog/welcome', 'd2b'),
+    path: '/mljourney/blog/welcome',
+    component: ComponentCreator('/mljourney/blog/welcome', '502'),
     exact: true
   },
   {
-    path: '/markdown-page',
-    component: ComponentCreator('/markdown-page', '3d7'),
+    path: '/mljourney/markdown-page',
+    component: ComponentCreator('/mljourney/markdown-page', '2f9'),
     exact: true
   },
   {
-    path: '/docs',
-    component: ComponentCreator('/docs', '733'),
+    path: '/mljourney/docs',
+    component: ComponentCreator('/mljourney/docs', '8de'),
     routes: [
       {
-        path: '/docs',
-        component: ComponentCreator('/docs', '7e6'),
+        path: '/mljourney/docs',
+        component: ComponentCreator('/mljourney/docs', '1ac'),
         routes: [
           {
-            path: '/docs',
-            component: ComponentCreator('/docs', 'ba6'),
+            path: '/mljourney/docs',
+            component: ComponentCreator('/mljourney/docs', '15b'),
             routes: [
               {
-                path: '/docs/category/tutorial---basics',
-                component: ComponentCreator('/docs/category/tutorial---basics', '20e'),
+                path: '/mljourney/docs/category/tutorial---basics',
+                component: ComponentCreator('/mljourney/docs/category/tutorial---basics', '359'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/category/tutorial---extras',
-                component: ComponentCreator('/docs/category/tutorial---extras', '9ad'),
+                path: '/mljourney/docs/category/tutorial---extras',
+                component: ComponentCreator('/mljourney/docs/category/tutorial---extras', '1c7'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/intro',
-                component: ComponentCreator('/docs/intro', '61d'),
+                path: '/mljourney/docs/intro',
+                component: ComponentCreator('/mljourney/docs/intro', '62c'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/tutorial-basics/congratulations',
-                component: ComponentCreator('/docs/tutorial-basics/congratulations', '458'),
+                path: '/mljourney/docs/tutorial-basics/congratulations',
+                component: ComponentCreator('/mljourney/docs/tutorial-basics/congratulations', '562'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/tutorial-basics/create-a-blog-post',
-                component: ComponentCreator('/docs/tutorial-basics/create-a-blog-post', '108'),
+                path: '/mljourney/docs/tutorial-basics/create-a-blog-post',
+                component: ComponentCreator('/mljourney/docs/tutorial-basics/create-a-blog-post', 'e60'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/tutorial-basics/create-a-document',
-                component: ComponentCreator('/docs/tutorial-basics/create-a-document', '8fc'),
+                path: '/mljourney/docs/tutorial-basics/create-a-document',
+                component: ComponentCreator('/mljourney/docs/tutorial-basics/create-a-document', '0ca'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/tutorial-basics/create-a-page',
-                component: ComponentCreator('/docs/tutorial-basics/create-a-page', '951'),
+                path: '/mljourney/docs/tutorial-basics/create-a-page',
+                component: ComponentCreator('/mljourney/docs/tutorial-basics/create-a-page', 'adb'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/tutorial-basics/deploy-your-site',
-                component: ComponentCreator('/docs/tutorial-basics/deploy-your-site', '4f5'),
+                path: '/mljourney/docs/tutorial-basics/deploy-your-site',
+                component: ComponentCreator('/mljourney/docs/tutorial-basics/deploy-your-site', '698'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/tutorial-basics/markdown-features',
-                component: ComponentCreator('/docs/tutorial-basics/markdown-features', 'b05'),
+                path: '/mljourney/docs/tutorial-basics/markdown-features',
+                component: ComponentCreator('/mljourney/docs/tutorial-basics/markdown-features', '57a'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/tutorial-extras/manage-docs-versions',
-                component: ComponentCreator('/docs/tutorial-extras/manage-docs-versions', '978'),
+                path: '/mljourney/docs/tutorial-extras/manage-docs-versions',
+                component: ComponentCreator('/mljourney/docs/tutorial-extras/manage-docs-versions', '944'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/tutorial-extras/translate-your-site',
-                component: ComponentCreator('/docs/tutorial-extras/translate-your-site', 'f9a'),
+                path: '/mljourney/docs/tutorial-extras/translate-your-site',
+                component: ComponentCreator('/mljourney/docs/tutorial-extras/translate-your-site', '1cb'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               }
@@ -162,8 +162,8 @@ export default [
     ]
   },
   {
-    path: '/',
-    component: ComponentCreator('/', 'e5f'),
+    path: '/mljourney/',
+    component: ComponentCreator('/mljourney/', '7c7'),
     exact: true
   },
   {
