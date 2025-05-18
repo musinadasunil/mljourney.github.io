@@ -8,7 +8,7 @@ const config: Config = {
   title: 'My ML Journey',
   tagline: 'Dinosaurs are cool',
   favicon: 'img/favicon.ico',
-  deploymentBranch:'docs',
+  deploymentBranch:'gh-pages',
   // Set the production url of your site here
   url: 'https://musinadasunil.github.io/',
   // Set the /<baseUrl>/ pathname under which your site is served
