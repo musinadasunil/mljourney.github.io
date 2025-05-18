@@ -8,9 +8,9 @@ const config: Config = {
   title: 'My ML Journey',
   tagline: 'Dinosaurs are cool',
   favicon: 'img/favicon.ico',
-
+  deploymentBranch:'main',
   // Set the production url of your site here
-  url: 'https://musinadasunil.github.io/mljourney.github.io/',
+  url: 'https://musinadasunil.github.io/',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
